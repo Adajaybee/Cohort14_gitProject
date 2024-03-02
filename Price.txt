@@ -2,3 +2,4 @@ Rice - 2CAD
 Stew - 5CAD
 Yam - 6CAD
 Beans - 2CAD
+Sausages - 3CAD
